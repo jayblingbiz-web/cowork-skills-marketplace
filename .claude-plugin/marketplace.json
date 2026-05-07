@@ -1,0 +1,29 @@
+{
+  "name": "jayblingbiz-cowork-skills",
+  "owner": {
+    "name": "jayblingbiz-web",
+    "email": "jayblingbiz@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "remotion-plugin",
+      "source": "./plugins/remotion-plugin",
+      "description": "Programmatic video creation with Remotion (React-based video rendering)."
+    },
+    {
+      "name": "skill-creator-plugin",
+      "source": "./plugins/skill-creator-plugin",
+      "description": "Create, edit, and validate Claude skills."
+    },
+    {
+      "name": "ugc-video-plugin",
+      "source": "./plugins/ugc-video-plugin",
+      "description": "Generate UGC-style ad videos using Flux 2 Pro and MiniMax Hailuo."
+    },
+    {
+      "name": "trending-news-plugin",
+      "source": "./plugins/trending-news-plugin",
+      "description": "Generate trending-news character videos with HeyGen avatars and ElevenLabs voice."
+    }
+  ]
+}
