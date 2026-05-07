@@ -1,0 +1,10 @@
+{
+  "name": "skill-creator-plugin",
+  "version": "1.0.0",
+  "description": "Create, edit, and validate Claude skills. Scaffolds new skill directories, packages skills, and runs quick validation.",
+  "author": {
+    "name": "jaybling"
+  },
+  "license": "MIT",
+  "keywords": ["skill", "scaffolding", "tooling", "developer"]
+}

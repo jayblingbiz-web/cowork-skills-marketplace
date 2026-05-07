@@ -1,0 +1,10 @@
+{
+  "name": "trending-news-plugin",
+  "version": "1.0.0",
+  "description": "Generate trending news character videos with HeyGen avatars, ElevenLabs voice, and X-driven research. Bundles the trending-news-character-skill and the safezone-template-reference sub-skills.",
+  "author": {
+    "name": "jaybling"
+  },
+  "license": "MIT",
+  "keywords": ["video", "news", "heygen", "elevenlabs", "x", "avatar"]
+}

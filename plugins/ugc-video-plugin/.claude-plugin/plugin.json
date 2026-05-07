@@ -1,0 +1,10 @@
+{
+  "name": "ugc-video-plugin",
+  "version": "1.0.0",
+  "description": "Generate UGC-style ad videos using Flux for image generation and MiniMax for video. Includes text overlay and clip stitching scripts plus TikTokSans fonts.",
+  "author": {
+    "name": "jaybling"
+  },
+  "license": "MIT",
+  "keywords": ["ugc", "video", "ads", "flux", "minimax", "tiktok"]
+}

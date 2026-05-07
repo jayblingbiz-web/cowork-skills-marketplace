@@ -1,0 +1,10 @@
+{
+  "name": "remotion-plugin",
+  "version": "1.0.0",
+  "description": "Programmatic video creation with Remotion (React-based video rendering). Includes prompting references for components, animations, and rendering.",
+  "author": {
+    "name": "jaybling"
+  },
+  "license": "MIT",
+  "keywords": ["remotion", "video", "react", "rendering"]
+}

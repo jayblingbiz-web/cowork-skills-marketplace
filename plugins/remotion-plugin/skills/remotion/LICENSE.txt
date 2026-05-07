@@ -1,0 +1,16 @@
+Proprietary License
+
+Copyright (c) 2026. All rights reserved.
+
+This skill and its contents are proprietary. Unauthorized copying, modification,
+distribution, or use of this skill, via any medium, is strictly prohibited without
+express written permission.
+
+This skill is provided for use with Claude Code and related Anthropic products.
+The skill enables programmatic video creation using the Remotion framework.
+Remotion itself is a separate product with its own licensing terms
+(see https://www.remotion.dev/license).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
